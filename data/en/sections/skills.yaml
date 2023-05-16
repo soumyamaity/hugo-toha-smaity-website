@@ -11,9 +11,9 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: Threat Modeling
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "I have developed an exceptional skil in identifying and analyzing potential threats to a complex and large information system. It is a systematic approach to security that helps organizations to identify and prioritize risks, and to develop and implement effective security controls. A good threat model can save 10 times more in security budget"
   url: "https://kubernetes.io/"
 
 - name: Go Development

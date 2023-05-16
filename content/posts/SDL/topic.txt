@@ -1,0 +1,95 @@
+Software supply chain security
+Secure coding practices
+Static application security testing (SAST)
+Dynamic application security testing (DAST)
+Interactive application security testing (IAST)
+Fuzz testing
+White box testing
+Black box testing
+Pen testing
+Code reviews
+Unit testing
+Integration testing
+System testing
+Acceptance testing
+Security architecture
+Security design
+Security implementation
+Security testing
+Security deployment
+Security operations
+Security monitoring
+Security incident response
+Security compliance
+Security risk management
+Security governance
+Security awareness
+Security culture
+Security education
+Security training
+Security awareness campaigns
+Security phishing simulations
+Security social engineering tests
+Security vulnerability management
+Security patch management
+Security configuration management
+Security change management
+Security incident response planning
+Security incident response playbooks
+Security incident response exercises
+Security incident response drills
+Security incident response teams
+Security incident response training
+Security incident response tools
+Security incident response documentation
+Security threat intelligence
+Security threat hunting
+Security threat analysis
+Security threat mitigation
+Security threat prevention
+Security threat detection
+Security threat response
+Security risk assessment
+Security risk analysis
+Security risk mitigation
+Security risk prevention
+Security risk detection
+Security risk response
+Security architecture reviews
+Security design reviews
+Security implementation reviews
+Security testing reviews
+Security deployment reviews
+Security operations reviews
+Security monitoring reviews
+Security incident response reviews
+Security vulnerability management reviews
+Security patch management reviews
+Security configuration management reviews
+Security change management reviews
+Security incident response planning reviews
+Security incident response playbook reviews
+Security incident response exercise reviews
+Security incident response drill reviews
+Security incident response team reviews
+Security incident response training reviews
+Security incident response tool reviews
+Security incident response documentation reviews
+Security threat intelligence reviews
+Security threat hunting reviews
+Security threat analysis reviews
+Security threat mitigation reviews
+Security threat prevention reviews
+Security threat detection reviews
+Security threat response reviews
+Security risk assessment reviews
+Security risk analysis reviews
+Security risk mitigation reviews
+Security risk prevention reviews
+Security risk detection reviews
+Security risk response reviews
+Security architecture reviews
+Security design reviews
+Security implementation reviews
+Security testing reviews
+Security deployment reviews

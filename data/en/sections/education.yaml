@@ -10,19 +10,15 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Ph.D in Information Technology
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2009-2015
   institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
+    name: Indian Institute of Technology Kharagpur
+    url: "https://iitkgp.ac.in/"
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
+  - title: "PoliCon: A Policy Conciliation Framework for Heterogeneous Mobile Ad Hoc Networks"
+    url: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/sec.990"
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
